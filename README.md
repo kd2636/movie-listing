@@ -1,5 +1,6 @@
 # movie-listing
 Project live at https://kd2636.github.io/movie-listing/
+
 Internship assignment.
 This project has 3 views
 1. Landing Page - this is the home page listing different genres. Action genre has been further implemented.
